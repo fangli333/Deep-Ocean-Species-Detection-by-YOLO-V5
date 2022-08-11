@@ -5,7 +5,18 @@ Yu Liu
 Haoran Zhang
 
 # Project Description
-This project aims to detect deep ocean species including shark, squid etc. given a set of video series. Specifically, we design a tool which takes raw videos as input, and ouput a excel file for each video indicating the number of shark, squid, etc and the timestamp for each video frame, as well as the processed video containing bbox. 
+
+Directed by Professor Volodymyr Kindratenko @ NCSA, UIUC and Reseach Scientist Aiman S Soliman @ NCSA, UIUC.
+
+@ National Center for Supercomputing Applications, University of Illinois at Urbana-Champaign.
+
+This project was developed to detect species in deep ocean including shark, squid etc. During training, we chose to take camera as one class to         reduce the probability that the camera will be wrongly detected as other species. In this way, the accuracy of species can also be improved. 
+
+A tool takes raw video in and outputs an excel file containing the numbers of species corresponding to timestamps and the video with bounding boxes     of different species showing the results of detection.
+
+YOLO v5 | roboflow | histogram | opencv | threshold 
+
+According to the agreement reached, the private raw videos cannot be accessed by ohters. The new private datasets established by ourselves are also     cannot accessed by others.
 
 # How to Run
 
