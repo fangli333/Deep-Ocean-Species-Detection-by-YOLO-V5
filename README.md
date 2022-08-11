@@ -1,8 +1,8 @@
 # Project member
 
-Fang Li
-Yu Liu
-Haoran Zhang
+Fang Li @ UIUC
+Yu Liu @ UIUC
+Haoran Zhang @ UIUC
 
 # Project Description
 
@@ -22,7 +22,7 @@ According to the agreement reached, the private raw videos cannot be accessed by
 
 ## Set up the environment
 ```
-git clone https://github.com/LYZJU2019/fish_project.git Fish
+git clone https://github.com/fangli333/Deep-Ocean-Species-Detection-by-YOLO-V5.git Fish
 cd Fish
 conda create -n <MyEnv> python=3.9
 conda activate <MyEnv>
