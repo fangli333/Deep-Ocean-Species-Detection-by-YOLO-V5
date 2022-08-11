@@ -14,7 +14,7 @@ This project was developed to detect species in deep ocean including shark, squi
 
 A tool takes raw video in and outputs an excel file containing the numbers of species corresponding to timestamps and the video with bounding boxes     of different species showing the results of detection.
 
-YOLO v5 | roboflow | histogram | opencv | threshold 
+YOLO v5 | roboflow | histogram | opencv 
 
 According to the agreement reached, the private raw videos cannot be accessed by ohters. The new private datasets established by ourselves are also     cannot accessed by others.
 
